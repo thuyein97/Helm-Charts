@@ -3,12 +3,23 @@ entries:
   amazon:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-09-18T09:33:47.125702582+07:00"
+    created: "2025-09-18T16:49:36.436357021+07:00"
     description: A Helm chart for Kubernetes
-    digest: 62d450be76bc0c499fd4ffca0f37ace9f0248560455729df36613c24ff2aa071
+    digest: adf8908bd6033572fad48db72f5d717f5b3823ea79d7330ae7b6adf3a5815278
     name: amazon
     type: application
     urls:
     - amazon-0.1.0.tgz
     version: 0.1.0
-generated: "2025-09-18T09:33:47.125403314+07:00"
+  tetris:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-09-18T16:49:36.436463735+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 97ac89c4f8578db9c37d69e8b5cd0b1ca2b093cd7b5af27b215a442c94cdd1eb
+    name: tetris
+    type: application
+    urls:
+    - tetris-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-09-18T16:49:36.43447707+07:00"
